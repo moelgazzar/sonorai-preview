@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonorai-preview/static/css/main.3dfeb97f.css",
+    "main.js": "/sonorai-preview/static/js/main.fe3ecbda.js",
+    "index.html": "/sonorai-preview/index.html",
+    "main.3dfeb97f.css.map": "/sonorai-preview/static/css/main.3dfeb97f.css.map",
+    "main.fe3ecbda.js.map": "/sonorai-preview/static/js/main.fe3ecbda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dfeb97f.css",
+    "static/js/main.fe3ecbda.js"
+  ]
+}

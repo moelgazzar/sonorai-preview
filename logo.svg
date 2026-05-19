@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" preserveAspectRatio="xMidYMid meet">
+  <title>Sonor</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@400&amp;display=swap');
+      .sonor-wm { font-family: 'Newsreader', 'Source Serif 4', Georgia, serif; font-weight: 400; }
+    </style>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="sonor-wm" font-size="170" letter-spacing="-4" fill="#000">Sonor</text>
+</svg>
