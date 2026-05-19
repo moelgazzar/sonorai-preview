@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sonorai-preview/static/css/main.123d238d.css",
+    "main.css": "/sonorai-preview/static/css/main.1267cae6.css",
     "main.js": "/sonorai-preview/static/js/main.5805818d.js",
     "index.html": "/sonorai-preview/index.html",
-    "main.123d238d.css.map": "/sonorai-preview/static/css/main.123d238d.css.map",
+    "main.1267cae6.css.map": "/sonorai-preview/static/css/main.1267cae6.css.map",
     "main.5805818d.js.map": "/sonorai-preview/static/js/main.5805818d.js.map"
   },
   "entrypoints": [
-    "static/css/main.123d238d.css",
+    "static/css/main.1267cae6.css",
     "static/js/main.5805818d.js"
   ]
 }
